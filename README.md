@@ -1,2 +1,5 @@
 # CRC20-Token
-CRC20 Token Example
+Credit CRC20 Token Template
+
+* [Deployment Guide](Coming soon)
+* [Integration Guide](Coming soon)
